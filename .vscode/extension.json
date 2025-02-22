@@ -1,0 +1,7 @@
+{
+    "recomendations": [
+        "esbenp.prettier-vscode",
+        "PKief.material-icon-theme",
+        "ritwickdey.LiveServer"
+    ]
+}
