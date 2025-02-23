@@ -13,6 +13,7 @@
   --surface-color-hover: rgba(255, 255, 255, 0.15);
   --switch-bg-url: url(./assets/MoonStars.svg);
   --switch-bg-color: rgba(255, 255, 255, 0.1);
+  --sociallinks-color-hover: rgba(255, 255, 255, 0.2);
 }
 
 .light {
@@ -24,6 +25,7 @@
   --surface-color-hover: rgba(0, 0, 0, 0.05);
   --switch-bg-url: url(./assets/Sun.svg);
   --switch-bg-color: rgba(0, 0, 0, 0.1);
+  --sociallinks-color-hover: rgba(0, 0, 0, 0.15);
 }
 
 body {
@@ -153,7 +155,7 @@ ul li a:hover {
 }
 
 #sociallinks a:hover {
-  background: var(--surface-color-hover);
+  background: var(--sociallinks-color-hover);
   border: var(--stroke-color-hover) 1px solid;
   padding: 16px;
 }
