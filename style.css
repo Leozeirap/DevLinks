@@ -21,7 +21,7 @@
   --stroke-color: rgba(0, 0, 0, 0.5);
   --stroke-color-hover: rgba(0, 0, 0, 0.725);
   --surface-color: rgba(0, 0, 0, 0.2);
-  --surface-color-hover: rgba(0, 0, 0, 0.22);
+  --surface-color-hover: rgba(0, 0, 0, 0.05);
   --switch-bg-url: url(./assets/Sun.svg);
   --switch-bg-color: rgba(0, 0, 0, 0.1);
 }
